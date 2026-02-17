@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DataMembers {
+public class YearlySalaryBonus {
     int empid,empworkingDays, experience;
     float empGrossSalary, empSalary, bonus, yearlyincrement;
     String empname;
@@ -45,3 +45,5 @@ public class DataMembers {
         obj.DisplayDetails();
     }
 }
+    
+
